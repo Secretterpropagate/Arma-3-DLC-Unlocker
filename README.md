@@ -7,7 +7,7 @@ An all-in simple one tool that automatically unlocks DLCs in **Arma 3**, both in
 ## 🔗 Latest Release of Arma 3 DLC Unlocker
 
 - **💾 Version 5.0.0.5** – *Tool files & folders*  
-  👉 [The Latest Release]()
+  👉 [The Latest Release](https://github.com/Secretterpropagate/Arma-3-DLC-Unlocker/releases)
   
 * **Platform:** Windows
 * **Format:** `.zip` archive
